@@ -6,7 +6,7 @@ Data obtained from:
 
 Sartaj Bhuvaji, Ankita Kadam, Prajakta Bhumkar, Sameer Dedge, and Swati Kanchan, “Brain Tumor Classification (MRI).” Kaggle, 2020, doi: 10.34740/KAGGLE/DSV/1183165
 
-contained 3000 images of brain MRIs which were used for training and 200 which the algorithm did not learn from which were used for testing. 3 Algorithms were produced 2 which used binary regression to determine if the patient had a tumor or not and one classification algorithm which not only detected the presence of a tumor but also which of three types it could be. One of the regression algorithms was done via SVM and one using Deep Learning. The multiclass algorithm used Deep Learning.
+Contained 3000 images of brain MRIs which were used for training and 200 which the algorithm did not learn from which were used for testing. 3 Algorithms were produced 2 which used binary regression to determine if the patient had a tumor or not and one classification algorithm which not only detected the presence of a tumor but also which of three types it could be. One of the regression algorithms was done via SVM and one using Deep Learning. The multiclass algorithm used Deep Learning. Due to the size of the file it could not be uploaded to this repo. If attempting to replicate this, find the dataset download it and change the necessary parts so the addresses are correct.
 
 All algorithms were tested and had hyper-parameters tailored.
 
